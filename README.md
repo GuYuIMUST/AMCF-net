@@ -2,7 +2,7 @@
 ## Introduction
 **AMCF-Net: A Novel Adaptive Multi-Channel Fusion Network for Computer-Aided Diagnosis of Lung Nodules in Chest Computed Tomography** 
 
-Sorry, the paper is currently under review. Once the paper is published, we will release the code.
+
 ## Results
 
 ### AMCF-Net
